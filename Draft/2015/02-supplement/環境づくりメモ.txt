@@ -1,0 +1,49 @@
+- Windows 7
+- IE 10 or Later (Visual Basic 2015 インストール要件)
+- Visual Studio 2015 Visual Studio Community
+  & File -> New Project -> Visual C++ -> Install Visual C++ components (or something similar)
+- Python 2.7.10 (3.xは非対応らしい)
+
+
+
+1. Ruby をインストール
+
+  Ruby Installer
+  rubyinstaller.org/
+
+  ※必ず「□ Ruby の実行ファイルへの環境変数パスを設定する」にチェックを入れる
+
+  [補足]
+  ・パスが通っていない場合
+    伊倉氏のPythonWebにパスの通し方についての解説があります
+    http://www.rubylife.jp/install/install/index3.html
+
+2. Node.js をインストール
+
+  Node.js
+  https://nodejs.org/
+
+3. Python をインストール
+
+  Python
+  https://www.python.org/
+
+  ※必ず[Add python.exe to Path]で[Will be installed on local hard drive]を選択しておく
+
+  python --version
+
+  python
+  >>>
+  >>> quit()
+
+  [補足]
+  ・パスが通っていない場合
+    伊倉氏のPythonWebにパスの通し方についての解説があります
+    http://www.pythonweb.jp/install/setup/index1.html
+
+4. Visual Studio Community 2015
+  https://www.visualstudio.com/
+
+  → Download Community 2015
+  ※インストールにかなり時間がかかります
+  ※インストール時にIE10以上を要求されます

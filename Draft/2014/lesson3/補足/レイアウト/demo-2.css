@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+}
+div {
+	padding: 10px;
+}
+.main,
+.content,
+.menu {
+	border: solid 1px black;
+}
+
+/* 以下レイアウト */
+
+.main {
+	/* テーブルとして解釈させる */
+	display: table;
+	/* .margin内での最大幅をセット */
+	width: 100%;
+	/* ボックスの計算方法を指定 */
+	box-sizing: border-box;
+	/* paddingの値を消しておく */
+	padding: 0;
+	/* paddingの替わりにborder-spacingでセル間間隔を指定 */
+	border-spacing: 10px;
+}
+.content {
+	/* テーブル内のセルとして解釈させる */
+	display: table-cell;
+}
+.menu {
+	/* テーブル内のセルとして解釈させる */
+	display: table-cell;
+	width: 200px;
+	/* ボックスの計算方法を指定 */
+	box-sizing: border-box;
+}

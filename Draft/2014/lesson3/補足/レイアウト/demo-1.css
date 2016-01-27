@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+}
+div {
+		padding: 10px;
+}
+.main,
+.content,
+.menu {
+	border: solid 1px black;
+}
+
+/* 以下レイアウト */
+
+.main {
+	/* float 解除 */
+	overflow: hidden;
+	zoom: 1;
+	/* 予め左paddingを10px+200px+10px分とっておく */
+	padding-left: 220px;
+}
+.content {
+	/* .margin内での最大幅をセット */
+	width: 100%;
+	/* 左へフロート */
+	float: left;
+	/* 左へ210px移動させる */
+	margin-left: -210px;
+	/* ボックスの計算方法を指定 */
+	box-sizing: border-box;
+}
+.menu {
+	float: right;
+	width: 200px;
+	/* ボックスの計算方法を指定 */
+	box-sizing: border-box;
+}
