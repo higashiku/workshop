@@ -27,9 +27,9 @@
 
 ### 主催
 
-エクスコード株式会社
-[http://excode.jp](http://excode.jp)
-フロントエンドエンジニア
+エクスコード株式会社  
+[http://excode.jp](http://excode.jp)  
+フロントエンドエンジニア  
 末包俊道
 
 ### 履歴
