@@ -70,4 +70,4 @@
 ### CC BY-NC 4.0
 
 この作品はクリエイティブ・コモンズ・表示 - 非営利 4.0 国際・ライセンスで提供されています。  
-このライセンスのコピーを閲覧するには、http://creativecommons.org/licenses/by-nc/4.0/を訪問して下さい。
+このライセンスのコピーを閲覧するには、[http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/p)を訪問して下さい。
