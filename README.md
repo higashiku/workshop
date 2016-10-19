@@ -40,6 +40,12 @@
 	- [概要(Doorkeeper)](https://higashiku.doorkeeper.jp/events/37200)
 	- [本編資料(PDF)](/PDF/workshop-2016-1.pdf)
 
+2. gulp + Slim テンプレートエンジンで HTML を効率よく書き出そう！
+	- [概要(Doorkeeper)](https://higashiku.doorkeeper.jp/events/46971)
+
+3. A/Bテストツールを使ってテストパターンを書いてみよう
+	- [概要(Doorkeeper)](https://higashiku.doorkeeper.jp/events/49462)
+
 #### 2015
 
 1. 2015-07-30 gulp + sass で目指せ倍速コーディング（東区フロントエンド勉強会 2015年 第1回）
