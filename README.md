@@ -44,7 +44,7 @@
 	- [概要(Doorkeeper)](https://higashiku.doorkeeper.jp/events/46971)
 	- [本編資料(PDF)](/PDF/workshop-2016-2.pdf)
 	
-3. 2016-01-28 A/Bテストツールを使ってテストパターンを書いてみよう
+3. 2016-08-04 A/Bテストツールを使ってテストパターンを書いてみよう
 	- [概要(Doorkeeper)](https://higashiku.doorkeeper.jp/events/49462)
 
 #### 2015
